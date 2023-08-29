@@ -1,0 +1,27 @@
+Create a Question with options - POST Method
+
+http://localhost:8000/question/create
+
+Viewing all the Question with options - GET Method
+
+http://localhost:8000/question/view/64edd93c4a83051e4e68a334
+
+Deleting one  Question with all associated options using ID - DELETE Method
+
+http://localhost:8000/question/view/64edd93c4a83051e4e68a334
+
+
+-------------------------------------------------------------------------
+
+Create a Option with options - POST Method
+
+http://localhost:8000/options/64edd93c4a83051e4e68a334/options/create
+
+Viewing all the Option - GET Method
+
+http://localhost:8000/options/64edd96d4a83051e4e68a344/add_vote
+
+Deleting one  Option using ID - DELETE Method
+
+http://localhost:8000/options/64edd96d4a83051e4e68a344/add_vote
+

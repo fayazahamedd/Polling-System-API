@@ -1,0 +1,29 @@
+{
+    "title": "Who is your favorite from the Ninjas Mentors",
+    "options": [
+        {
+            "id": 1,
+            "text": "Aakash Tyagi",
+            "votes": 100,
+            "link_to_vote": "http://localhost:8000/options/1/add_vote"
+        },
+        {
+            "id": 2,
+            "text": "Parikh Jain",
+            "votes": 101,
+            "link_to_vote": "http://localhost:8000/options/2/add_vote"
+        },
+        {
+            "id": 3,
+            "text": "Ankush Singla",
+            "votes": 102,
+            "link_to_vote": "http://localhost:8000/options/3/add_vote"
+        },
+        {
+            "id": 4,
+            "text": "Nidhi",
+            "votes": 110,
+            "link_to_vote": "http://localhost:8000/options/4/add_vote"
+        }
+    ]
+}
